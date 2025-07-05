@@ -7,7 +7,7 @@ title = "faiss.wiki.cn"
 
 [preprocessor.reading-time]
 words-per-minute = 160
-words-bias = 1242
+words-bias = 1241
 
 [preprocessor.suiji]
 
