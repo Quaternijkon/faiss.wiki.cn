@@ -1,3 +1,11 @@
+<!--
+ * @Author: superestos superestos@gmail.com
+ * @Date: 2025-07-04 08:48:09
+ * @LastEditors: superestos superestos@gmail.com
+ * @LastEditTime: 2025-07-05 16:38:13
+ * @FilePath: /dry/faiss.wiki.cn/src/GPU-Faiss-with-cuVS.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ## cuVS Overview 
 
 [cuVS](https://github.com/rapidsai/cuvs) contains state-of-the-art implementations of several algorithms for running approximate nearest neighbors and clustering on the GPU. The primary goal of cuVS is to simplify the use of GPUs for vector similarity search and clustering. cuVS is built on top of the [RAPIDS RAFT](https://github.com/rapidsai/raft) library of high performance machine learning primitives.

@@ -1,3 +1,11 @@
+<!--
+ * @Author: superestos superestos@gmail.com
+ * @Date: 2025-07-04 08:48:09
+ * @LastEditors: superestos superestos@gmail.com
+ * @LastEditTime: 2025-07-05 16:38:25
+ * @FilePath: /dry/faiss.wiki.cn/src/Guidelines-to-choose-an-index.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 Choosing an index is not obvious, so here are a few essential questions that can help in the choice of an index. They are mainly applicable for L2 distances. We indicate:
 
 - the `index_factory` string for each of them.
