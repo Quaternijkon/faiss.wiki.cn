@@ -73,7 +73,7 @@ Shin’ichi Satoh, ITE transactions on MTA, 2018.
 
 The overview image below is from that paper (click on the image to enlarge it):
 
-[ [[PQ_variants_Faiss_annotated.png]] ](https://raw.githubusercontent.com/wiki/facebookresearch/faiss/PQ_variants_Faiss_annotated.png)
+![PQ_variants_Faiss_annotated.png](https://raw.githubusercontent.com/wiki/facebookresearch/faiss/PQ_variants_Faiss_annotated.png)
 
 Methods that are implemented in Faiss are highlighted in red (2021-08-19: additionally implemented: SIMD options and additive quantization). 
 
